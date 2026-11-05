@@ -6,3 +6,5 @@ Proyecto base para la clasificación de fuga de clientes (Churn) utilizando algo
 - `data/telco_demo.csv`: Muestra sintética del dataset.
 - `src/train.py`: Script de entrenamiento de modelos.
 - `requirements.txt`: Librerías requeridas.
+## Evaluación de Métricas
+Se evalúa la precisión con Accuracy, F1-Score y ROC-AUC.
