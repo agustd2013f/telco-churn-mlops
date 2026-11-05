@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Proyecto Telco Churn - Modelo Principal: Random Forest
 
+=======
+# Proyecto Telco Churn - Modelo Principal: SVM
+>>>>>>> test/conflicto
 Proyecto base para la clasificación de fuga de clientes (Churn) utilizando algoritmos en Python.
 
 ## Estructura del Proyecto
