@@ -8,3 +8,8 @@ Proyecto base para la clasificación de fuga de clientes (Churn) utilizando algo
 - `requirements.txt`: Librerías requeridas.
 ## Evaluación de Métricas
 Se evalúa la precisión con Accuracy, F1-Score y ROC-AUC.
+## Evaluación de Métricas
+Se evalúa la precisión con Accuracy, F1-Score y ROC-AUC.
+
+## Modelo SVM
+Se incluye un modelo Support Vector Machine (RBF) estandarizado con StandardScaler.
