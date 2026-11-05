@@ -1,4 +1,4 @@
-# Proyecto Telco Customer Churn - Minería de Datos
+# Proyecto Telco Churn - Modelo Principal: Random Forest
 
 Proyecto base para la clasificación de fuga de clientes (Churn) utilizando algoritmos en Python.
 
