@@ -15,3 +15,9 @@ Se evalúa la precisión con Accuracy, F1-Score y ROC-AUC.
 
 ## Modelo SVM
 Se incluye un modelo Support Vector Machine (RBF) estandarizado con StandardScaler.
+
+## Métricas de Clasificación
+- **Accuracy:** Proporción total de predicciones correctas.
+- **Precision:** Exactitud de las predicciones positivas de abandono (Churn).
+- **Recall:** Capacidad del modelo para detectar todos los casos reales de Churn.
+- **F1-Score:** Media armónica entre Precision y Recall.
