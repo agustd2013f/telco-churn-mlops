@@ -20,4 +20,6 @@ Se incluye un modelo Support Vector Machine (RBF) estandarizado con StandardScal
 - **Accuracy:** Proporción total de predicciones correctas.
 - **Precision:** Exactitud de las predicciones positivas de abandono (Churn).
 - **Recall:** Capacidad del modelo para detectar todos los casos reales de Churn.
-- **F1-Score:** Media armónica entre Precision y Recall.
+- **F1-Score:** Media armónica entre Precision y Recall. 
+## Resultados del Proyecto 
+El modelo SVM con kernel RBF obtuvo el mejor desempeno en ROC-AUC y F1-Score. 
